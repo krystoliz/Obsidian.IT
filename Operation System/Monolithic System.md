@@ -1,0 +1,10 @@
+- type of [[Operation System]]
+- entire OS run by kernel space : device management, memory, file, process management
+- UNIX (Linux), MS-DOS
+- --------------------------------------------------------
+- +Efficient : High performance, direct system calls
+- +Simple : + easier to design and implement
+- - Not secure : any bugs in kernel affect the whole
+- - Not stable : user level process crashes, bring down whole system
+- ---------------------------------------------------------
+- antiequivalent of [[Layered client-server]]
