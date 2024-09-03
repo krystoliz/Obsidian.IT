@@ -6,5 +6,6 @@
 - +Simple : + easier to design and implement
 - - Not secure : any bugs in kernel affect the whole
 - - Not stable : user level process crashes, bring down whole system
+- 
 - ---------------------------------------------------------
 - antiequivalent of [[Layered client-server]]
