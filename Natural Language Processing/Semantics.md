@@ -10,3 +10,11 @@ The idea sleeps on the cow (grammatically correct but semantically nonsensical)
 
 Semantic key concepts: word sense, meaning representation, ambiguity
 
+#### Word Meaning
+meanings of individual words and relationships between them
+- words senses, relationships between words, connotation
+#### Sentence Meaning
+how words combine to create meaning
+- predicate-argument structure
+- formal meaning representations
+- discourse meaning (how sentences connect and contribute to a coherent whole)

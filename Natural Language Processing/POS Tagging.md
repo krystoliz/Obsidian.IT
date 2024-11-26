@@ -1,0 +1,1 @@
+fundamental process in natural language processing that involves assigning a grammatical category or part of speech
