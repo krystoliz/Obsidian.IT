@@ -24,15 +24,21 @@ determining emotional tone or sentiment expressed in a text
 - [[Vector Semantics]] and [[Neural Networks]]
 
 Syntactic Parsing
-- Formal Grammars and Parsing Algorithms
-- Dependency Parsing
+- [[Formal Grammars]] and [[Parsing Algorithms]]
+- [[Dependency Parsing]]
 Semantic Analysis
-- Sentence Meaning
-- Computational Semantics
+- [[Sentence Meaning]]
+- [[Computational Semantics]]
 Information Extraction
-- Named Entity Recognition
-- Relation Extraction
-- Temporal Extraction
-- Event Extraction
+- [[Named Entity Recognition]]
+- [[Relation Extraction]]
+- [[Temporal Extraction]]
+- [[Event Extraction]]
 Applications of NLP
-- Machine Translation
+- [[Machine Translation]]
+- [[Question Answering]]
+- [[Dialogue Systems and Chatbots]]
+- [[Speech Recognition and Synthesis]]
+
+[[Word Sense Disambiguations]]
+[[Spelling Correction]]
