@@ -18,7 +18,7 @@ determining emotional tone or sentiment expressed in a text
 - [[Word Classes]]
 - [[POS Tagging]]
 
-### [[**Machine Learning**]] for NLP
+### [[Machine Learning]] for NLP
 - [[Naive Bayes]] and [[Sentiment Classification]]
 - [[Logistic Regression]]
 - [[Vector Semantics]] and [[Neural Networks]]
